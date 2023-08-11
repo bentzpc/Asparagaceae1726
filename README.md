@@ -1,5 +1,5 @@
 # Asparagaceae1726
-Asparagaceae-specific probe set of 1,726 low-copy loci for Hyb-Seq and phylogenomics in the family.
+Repository for Asparagaceae1726: a lineage-specific probe set of 1,726 low-copy loci for Hyb-Seq and phylogenomics in the monocot family Asparagaceae
 
 
 **Asparagaceae1726_probes_38581.fa** = fasta file with 90 nt probe sequences (38,581 total probes) with 2X tiliing
