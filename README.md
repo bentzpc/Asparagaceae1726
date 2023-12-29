@@ -3,13 +3,13 @@ Repository for Asparagaceae1726: a lineage-specific probe set of 1,726 low-copy 
    <br>
    <br>
 
-# Content
+# Contents
 
  **Asparagaceae1726_probes_38581.fa** 
  - Fasta file with 90 nt sequences used to design RNA probes for targeted DNA hybridization/capture 
  - Contains 38,581 total probes with 2X tiling
 
- **Asparagaceae1726_orthologs_Angiosperm353.csv** 
+ **Angiosperms353_orthologs_Asparagaceae1726.csv** 
  - List of Asparagaceae1726 targets shared with Angiosperms353
 
  **ortholog_target_files** 
