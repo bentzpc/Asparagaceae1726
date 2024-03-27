@@ -29,11 +29,23 @@ Repository for Asparagaceae1726: a lineage-specific probe set of 1,726 low-copy 
   **Asparagaceae1726_AA_targets_w_orthologs.fa** 
    - Fasta file containing amino acid sequences from 1-3 orthologs for all target loci (reference sequences from _Asparagus officinalis_, _Asparagus setaceus_, and _Yucca aloifolia_)
    <br>
+   
+# Ordering Asparagaceae1726 baits
 
-## References
+**Asparagaceae1726 baits can be ordered from Daicel Arbor Biosciences as a "myBaits Predesigned Custom Community Panel" in the "Plants and Fungi" category (Design ID: D10063Aspar)**: https://arborbiosci.com/products/targeted-ngs/mybaits-predesigned-kits/mybaits-custom-community-panels/plants-and-fungi/#toggle-id-2
+   <br>
+   <br>
+   
+# How to cite
+
+Bentz, P.C. and J. Leebens-Mack. (in press). Developing Asparagaceae1726: an Asparagaceae-specific probe set targeting 1,726 loci for Hyb-Seq and phylogenomics in the family. _Applications in Plant Sciences_.
+   <br>
+   <br>
+   
+# References
  
  1. Angiosperms353: https://doi.org/10.1093/sysbio/syy086
  2. HybPiper: https://github.com/mossmatters/HybPiper
- 3. _Asparagus officinalis_ reference sequences from Harkess et al.: https://doi.org/10.1038/s41467-017-01064-8
- 4. _Asparagus setaceus_ reference sequences from Li et al.: https://doi.org/10.1038/s41438-020-0271-y
- 5. _Yucca aloifolia_ reference sequences from K. Heyduk et al. (University of Connecticut, unpublished data)
+ 3. _Asparagus officinalis_ reference sequences: https://doi.org/10.1038/s41467-017-01064-8
+ 4. _Asparagus setaceus_ reference sequences: https://doi.org/10.1038/s41438-020-0271-y
+ 5. _Yucca aloifolia_ reference sequences: https://phytozome-next.jgi.doe.gov/info/YaloifoliaYa24Inoko_v2_1
