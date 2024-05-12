@@ -38,7 +38,9 @@ Repository for Asparagaceae1726: a lineage-specific probe set of 1,726 low-copy 
    
 # How to cite
 
-Bentz, P.C. and J. Leebens-Mack. (in press). Developing Asparagaceae1726: an Asparagaceae-specific probe set targeting 1,726 loci for Hyb-Seq and phylogenomics in the family. _Applications in Plant Sciences_.
+Bentz, P.C. and J. Leebens-Mack. (2024). Developing Asparagaceae1726: an Asparagaceae-specific probe set targeting 1,726 loci for Hyb-Seq and phylogenomics in the family. _Applications in Plant Sciences_ 12.
+   <br>
+**DOI 10.1002/aps3.11591**
    <br>
    <br>
    
