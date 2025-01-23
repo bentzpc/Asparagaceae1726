@@ -60,8 +60,8 @@ Philip C. Bentz, John E. Burrows, Sandra M. Burrows, Eshchar Mizrachi, Zhengjie 
  4. _Agave tequilana_ var. Weber's Blue v2.1 reference genome: (DOE-JGI) https://phytozome-next.jgi.doe.gov/info/Atequilanavar_WebersBlueHAP1_v2_1
  5. _Yucca filamentosa_ C3 pri v2.1 reference genome: (DOE-JGI) https://phytozome.jgi.doe.gov/info/YfilamentosaC3pri_v2_1
  6. _Yucca aloifolia_ Ya24Inoko v2.1 reference genome: (DOE-JGI) https://phytozome.jgi.doe.gov/info/YaloifoliaYa24Inoko_v2_1
- 7. _Asparagus horridus_ reference genome: Bentz et al., unpublished
- 8. _Asparagus officinalis_ reference genome: Bentz et al., unpublished
+ 7. _Asparagus horridus_ pb32m reference genome: Bentz et al., unpublished
+ 8. _Asparagus officinalis_ pb81m reference genome: Bentz et al., unpublished
  9. _Dioscorea alata_ v2.1 (outgroup) reference genome: (DOE-JGI) https://phytozome-next.jgi.doe.gov/info/Dalata_v2_1
  10. Pineapple (outgroup) reference genome: https://doi.org/10.1038/ng.3435
 
