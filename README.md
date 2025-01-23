@@ -33,10 +33,7 @@ Repository for Asparagaceae1726: a lineage-specific probe set of 1,726 low-copy 
 # Ordering Asparagaceae1726 baits
 
 **Asparagaceae1726 baits can be ordered from Daicel Arbor Biosciences as a "myBaits Predesigned Custom Community Panel" in the "Plants and Fungi" category (Design ID: D10063Aspar)**: https://arborbiosci.com/products/targeted-ngs/mybaits-predesigned-kits/mybaits-custom-community-panels/plants-and-fungi/#toggle-id-2
-   <br>
-   <br>
-     - Alternative vendors may also be used, just provide them with the probe sequence fasta file: **Asparagaceae1726_probes_38581.fa**.
-   <br>
+  - Alternative vendors may also be used, just provide them with the probe sequence fasta file: **Asparagaceae1726_probes_38581.fa**.
    <br>
    
 # How to cite
