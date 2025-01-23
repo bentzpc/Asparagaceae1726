@@ -38,12 +38,18 @@ Repository for Asparagaceae1726: a lineage-specific probe set of 1,726 low-copy 
    
 # How to cite
 
-Bentz, P.C. and J. Leebens-Mack. (2024). Developing Asparagaceae1726: an Asparagaceae-specific probe set targeting 1,726 loci for Hyb-Seq and phylogenomics in the family. _Applications in Plant Sciences_ 12(5): e11597.
+Philip C. Bentz and Jim Leebens-Mack. (2024). Developing Asparagaceae1726: an Asparagaceae-specific probe set targeting 1,726 loci for Hyb-Seq and phylogenomics in the family. _Applications in Plant Sciences_ 12(5): e11597.
    <br>
 **[DOI 10.1002/aps3.11597](https://doi.org/10.1002/aps3.11597)**
    <br>
    <br>
-   
+# Studies using Asparagaceae1726
+   <br>
+Philip C. Bentz, John E. Burrows, Sandra M. Burrows, Eshchar Mizrachi, Zhengjie Liu, Junbo Yang, Zichao Mao, Margot Popecki, Ole Seberg, Gitte Petersen, Jim Leebens-Mack. (2024). Bursts of Rapid Diversification, Dispersals Out of Southern Africa, and Two Origins of Dioecy Punctuate the Evolution of _Asparagus_. _Genome Biology and Evolution_ 16(10): evae200.
+   <br>
+   https://doi.org/10.1093/gbe/evae200
+   <br>
+   <br>
 # References
  
  1. Angiosperms353: https://doi.org/10.1093/sysbio/syy086
