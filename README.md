@@ -4,30 +4,18 @@ Repository for Asparagaceae1726: a lineage-specific probe set of 1,726 low-copy 
    <br>
    <br>
 
-# Contents
+# File contents
 
  **Asparagaceae1726_probes_38581.fa** 
- - Fasta file with 90 nt sequences used to design RNA probes for targeted DNA hybridization/capture 
- - Contains 38,581 total probes with 2x tiling
+ - Fasta file with 90 nt sequences used to design RNA probes for targeted DNA hybridization/capture in vitro
+ - Contains 38,581 total probes with 2x tiling per probe
 
- **Angiosperms353_orthologs_Asparagaceae1726.csv** 
- - List of Asparagaceae1726 targets shared with Angiosperms353
+  **1726_tdna.v2.0.0.fa**
+  - Fasta file containing target ortholog (nucleotide) sequences, representing multiple orthologs per target from 1-7 Asparagaceae lineages
 
- **ortholog_target_files** 
- - Directory containing target CDS assemblies for orthologs from Asparagaceae subfamilies Agavoideae, Asparagoideae, Brodiaeoideae, Lomandroideae, Nolinoideae, and Scilloideae
-   <br>
-   <br>
-
-## Target sequence files (ortholog references) formatted for HybPiper
-
-  **Asparagaceae1726_DNA_targets_NO_orthologs.fa** 
-  - Fasta file containing nucleotide sequences from 1 ortholog for all target loci (reference sequences from _Asparagus officinalis_ or _Asparagus setaceus_)
-
-  **Asparagaceae1726_DNA_targets_w_orthologs.fa**
-  - Fasta file containing nucleotide sequences from 1-3 orthologs for all target loci (reference sequences from _Asparagus officinalis_, _Asparagus setaceus_, and _Yucca aloifolia_)
-
-  **Asparagaceae1726_AA_targets_w_orthologs.fa** 
-   - Fasta file containing amino acid sequences from 1-3 orthologs for all target loci (reference sequences from _Asparagus officinalis_, _Asparagus setaceus_, and _Yucca aloifolia_)
+  **v1.1_files**
+  - Folder containing reference fasta files corresponding to Asparagaceae1726 v1.1
+    
 <br>
 
 # Ordering Asparagaceae1726 baits
@@ -42,7 +30,8 @@ Philip C. Bentz, Jim Leebens-Mack. (2024). Developing Asparagaceae1726: an Aspar
    <br>
    https://doi.org/10.1002/aps3.11597
    <br>
-   <br>
+   - Relevant data, results, and scripts from Bentz & Leebens-Mack (2024) are archived on Zenodo (https://doi.org/10.5281/zenodo.10442712). Sequencing reads from Bentz & Leebens-Mack    (2024) are available on NCBI Short Read Archive (https://www.ncbi.nlm.nih.gov/sra) under BioProject PRJNA1034624.
+
    
 ## Studies using Asparagaceae1726
    
@@ -51,6 +40,7 @@ Philip C. Bentz, John E. Burrows, Sandra M. Burrows, Eshchar Mizrachi, Zhengjie 
    https://doi.org/10.1093/gbe/evae200
    <br>
    <br>
+      <br>
    
 # References
  
