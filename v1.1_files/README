@@ -1,0 +1,6 @@
+#file   contents
+v1.1_Angiosperms353_orthologs_Asparagaceae1726.csv   List of Asparagaceae1726 targets shared with Angiosperms353
+v1.1_Asparagaceae1726_DNA_targets_NO_orthologs.fa    Fasta file containing nucleotide sequences from 1 ortholog for all target loci (reference sequences from Asparagus officinalis or Asparagus setaceus) - formatted for HybPiper
+v1.1_Asparagaceae1726_DNA_targets_w_orthologs.fa   Fasta file containing nucleotide sequences from 1-3 orthologs for all target loci (reference sequences from Asparagus officinalis, Asparagus setaceus, and Yucca aloifolia) - formatted for HybPiper
+v1.1_Asparagaceae1726_AA_targets_w_orthologs.fa  Fasta file containing amino acid sequences from 1-3 orthologs for all target loci (reference sequences from Asparagus officinalis, Asparagus setaceus, and Yucca aloifolia) - formatted for HybPiper
+v1.1_list_of_targets.txt    list of 1726 target loci in v1.1
