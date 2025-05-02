@@ -11,7 +11,7 @@ Repository for Asparagaceae1726: a lineage-specific probe set of 1,726 low-copy 
  - Contains 38,581 total probes with 2x tiling per probe
 
   **1726_tdna.v2.0.0.fa**
-  - Fasta file containing target ortholog (nucleotide) sequences, representing multiple orthologs per target from 1-7 Asparagaceae lineages
+  - Fasta file containing target ortholog (nucleotide) sequences, representing multiple orthologs per target from 1-7 Asparagaceae lineages (see Asparagaceae1726_v2.0.0_updates.pdf for more information)
 
   **v1.1_files**
   - Folder containing reference fasta files corresponding to Asparagaceae1726 v1.1
